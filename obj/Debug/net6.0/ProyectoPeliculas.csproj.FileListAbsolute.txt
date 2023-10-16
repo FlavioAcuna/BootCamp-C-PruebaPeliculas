@@ -1,0 +1,50 @@
+/Users/flavioacuna/Dev/BootCamp C# Sonda/ProyectoPeliculas/bin/Debug/net6.0/appsettings.Development.json
+/Users/flavioacuna/Dev/BootCamp C# Sonda/ProyectoPeliculas/bin/Debug/net6.0/appsettings.json
+/Users/flavioacuna/Dev/BootCamp C# Sonda/ProyectoPeliculas/bin/Debug/net6.0/ProyectoPeliculas
+/Users/flavioacuna/Dev/BootCamp C# Sonda/ProyectoPeliculas/bin/Debug/net6.0/ProyectoPeliculas.deps.json
+/Users/flavioacuna/Dev/BootCamp C# Sonda/ProyectoPeliculas/bin/Debug/net6.0/ProyectoPeliculas.runtimeconfig.json
+/Users/flavioacuna/Dev/BootCamp C# Sonda/ProyectoPeliculas/bin/Debug/net6.0/ProyectoPeliculas.dll
+/Users/flavioacuna/Dev/BootCamp C# Sonda/ProyectoPeliculas/bin/Debug/net6.0/ProyectoPeliculas.pdb
+/Users/flavioacuna/Dev/BootCamp C# Sonda/ProyectoPeliculas/obj/Debug/net6.0/ProyectoPeliculas.csproj.AssemblyReference.cache
+/Users/flavioacuna/Dev/BootCamp C# Sonda/ProyectoPeliculas/obj/Debug/net6.0/ProyectoPeliculas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/flavioacuna/Dev/BootCamp C# Sonda/ProyectoPeliculas/obj/Debug/net6.0/ProyectoPeliculas.AssemblyInfoInputs.cache
+/Users/flavioacuna/Dev/BootCamp C# Sonda/ProyectoPeliculas/obj/Debug/net6.0/ProyectoPeliculas.AssemblyInfo.cs
+/Users/flavioacuna/Dev/BootCamp C# Sonda/ProyectoPeliculas/obj/Debug/net6.0/ProyectoPeliculas.csproj.CoreCompileInputs.cache
+/Users/flavioacuna/Dev/BootCamp C# Sonda/ProyectoPeliculas/obj/Debug/net6.0/ProyectoPeliculas.MvcApplicationPartsAssemblyInfo.cache
+/Users/flavioacuna/Dev/BootCamp C# Sonda/ProyectoPeliculas/obj/Debug/net6.0/staticwebassets.build.json
+/Users/flavioacuna/Dev/BootCamp C# Sonda/ProyectoPeliculas/obj/Debug/net6.0/staticwebassets.development.json
+/Users/flavioacuna/Dev/BootCamp C# Sonda/ProyectoPeliculas/obj/Debug/net6.0/scopedcss/bundle/ProyectoPeliculas.styles.css
+/Users/flavioacuna/Dev/BootCamp C# Sonda/ProyectoPeliculas/obj/Debug/net6.0/ProyectoPeliculas.dll
+/Users/flavioacuna/Dev/BootCamp C# Sonda/ProyectoPeliculas/obj/Debug/net6.0/refint/ProyectoPeliculas.dll
+/Users/flavioacuna/Dev/BootCamp C# Sonda/ProyectoPeliculas/obj/Debug/net6.0/ProyectoPeliculas.pdb
+/Users/flavioacuna/Dev/BootCamp C# Sonda/ProyectoPeliculas/obj/Debug/net6.0/ProyectoPeliculas.genruntimeconfig.cache
+/Users/flavioacuna/Dev/BootCamp C# Sonda/ProyectoPeliculas/obj/Debug/net6.0/ref/ProyectoPeliculas.dll
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\bin\Debug\net6.0\appsettings.Development.json
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\bin\Debug\net6.0\appsettings.json
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\bin\Debug\net6.0\ProyectoPeliculas.exe
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\bin\Debug\net6.0\ProyectoPeliculas.deps.json
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\bin\Debug\net6.0\ProyectoPeliculas.runtimeconfig.json
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\bin\Debug\net6.0\ProyectoPeliculas.dll
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\bin\Debug\net6.0\ProyectoPeliculas.pdb
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\obj\Debug\net6.0\ProyectoPeliculas.csproj.AssemblyReference.cache
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\obj\Debug\net6.0\ProyectoPeliculas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\obj\Debug\net6.0\ProyectoPeliculas.AssemblyInfoInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\obj\Debug\net6.0\ProyectoPeliculas.AssemblyInfo.cs
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\obj\Debug\net6.0\ProyectoPeliculas.csproj.CoreCompileInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\obj\Debug\net6.0\ProyectoPeliculas.MvcApplicationPartsAssemblyInfo.cache
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoPeliculas.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoPeliculas.props
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoPeliculas.props
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoPeliculas.props
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\obj\Debug\net6.0\staticwebassets.build.json
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\obj\Debug\net6.0\staticwebassets.development.json
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\obj\Debug\net6.0\scopedcss\bundle\ProyectoPeliculas.styles.css
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\obj\Debug\net6.0\ProyectoPeliculas.dll
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\obj\Debug\net6.0\refint\ProyectoPeliculas.dll
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\obj\Debug\net6.0\ProyectoPeliculas.pdb
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\obj\Debug\net6.0\ProyectoPeliculas.genruntimeconfig.cache
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\obj\Debug\net6.0\ref\ProyectoPeliculas.dll
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\obj\Debug\net6.0\ProyectoPeliculas.RazorAssemblyInfo.cache
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\obj\Debug\net6.0\ProyectoPeliculas.RazorAssemblyInfo.cs
+E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculas\bin\Debug\net6.0\ProyectoPeliculas.staticwebassets.runtime.json

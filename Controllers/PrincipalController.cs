@@ -6,15 +6,21 @@ public class PrincipalController : Controller
 {
     [HttpGet]
     [Route("")]
-    public string Index()
+    public IActionResult Index()
     {
-        return "Hola Desde el controlador principal en la ruta'/'";
+        string titulo = "Hola desde ASP y el servidor!!!";
+        string subTitulo = "Bienvenidos a la primera vista";
+        ViewBag.Titulo = titulo;
+        ViewBag.SubTitulo = subTitulo;
+        return View("index");
     }
     [HttpGet]
     [Route("directores")]
-    public string Directores()
+    public IActionResult Directores()
     {
-        return "Hola Desde directores en la ruta'/directores'";
+        string[] listaDirectores = { "Martin Scorses", "Quentin Tarantino", "Billy Wilder", "James Cameron" };
+        ViewBag.ListaDirectores = listaDirectores;
+        return View("directores");
     }
     [HttpGet("mensaje/{nombre}/{apellido}")]
     public string Mensaje(string nombre, string apellido)

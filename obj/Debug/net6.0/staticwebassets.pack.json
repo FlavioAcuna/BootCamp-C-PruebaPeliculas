@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Dev\\BootCamp C# Sonda\\semana 7 asignaciones\\dia 1\\ProyectoPeliculas\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Dev\\BootCamp C# Sonda\\semana 7 asignaciones\\dia 1\\ProyectoPeliculas\\wwwroot\\img\\1.png",
+      "PackagePath": "staticwebassets\\img\\1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ProyectoPeliculas.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ProyectoPeliculas.props",
+      "PackagePath": "build\\ProyectoPeliculas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ProyectoPeliculas.props",
+      "PackagePath": "buildMultiTargeting\\ProyectoPeliculas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ProyectoPeliculas.props",
+      "PackagePath": "buildTransitive\\ProyectoPeliculas.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

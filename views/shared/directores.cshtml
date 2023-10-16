@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" conteFnt="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+
+<body>
+    <h1>Directores</h1>
+    <ul>
+        @{
+            foreach (string director in @ViewBag.ListaDirectores)
+            {
+                <li> @director</li>
+            }
+        }
+    </ul>
+    <img src="~/img/1.png" alt="">
+</body>
+
+</html>
