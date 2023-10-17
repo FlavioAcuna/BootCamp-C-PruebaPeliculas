@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Dev\\BootCamp C# Sonda\\semana 7 asignaciones\\dia 1\\ProyectoPeliculasv2\\ProyectoPeliculas.csproj",
+      "projectUniqueName": "E:\\Dev\\BootCamp C# Sonda\\semana 7 asignaciones\\dia 2\\BootCamp-C-PruebaPeliculas\\ProyectoPeliculas.csproj",
       "projectName": "ProyectoPeliculas",
-      "projectPath": "E:\\Dev\\BootCamp C# Sonda\\semana 7 asignaciones\\dia 1\\ProyectoPeliculasv2\\ProyectoPeliculas.csproj",
+      "projectPath": "E:\\Dev\\BootCamp C# Sonda\\semana 7 asignaciones\\dia 2\\BootCamp-C-PruebaPeliculas\\ProyectoPeliculas.csproj",
       "packagesPath": "C:\\Users\\flavi\\.nuget\\packages\\",
-      "outputPath": "E:\\Dev\\BootCamp C# Sonda\\semana 7 asignaciones\\dia 1\\ProyectoPeliculasv2\\obj\\",
+      "outputPath": "E:\\Dev\\BootCamp C# Sonda\\semana 7 asignaciones\\dia 2\\BootCamp-C-PruebaPeliculas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\flavi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,17 +9,21 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProyectoPeliculas
 build_property.RootNamespace = ProyectoPeliculas
-build_property.ProjectDir = E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculasv2\
+build_property.ProjectDir = E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 2\BootCamp-C-PruebaPeliculas\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 1\ProyectoPeliculasv2
+build_property.MSBuildProjectDirectory = E:\Dev\BootCamp C# Sonda\semana 7 asignaciones\dia 2\BootCamp-C-PruebaPeliculas
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Dev/BootCamp C\# Sonda/semana 7 asignaciones/dia 1/ProyectoPeliculasv2/views/shared/directores.cshtml]
+[E:/Dev/BootCamp C\# Sonda/semana 7 asignaciones/dia 2/BootCamp-C-PruebaPeliculas/views/shared/directores.cshtml]
 build_metadata.AdditionalFiles.TargetPath = dmlld3Ncc2hhcmVkXGRpcmVjdG9yZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Dev/BootCamp C\# Sonda/semana 7 asignaciones/dia 1/ProyectoPeliculasv2/views/shared/index.cshtml]
+[E:/Dev/BootCamp C\# Sonda/semana 7 asignaciones/dia 2/BootCamp-C-PruebaPeliculas/views/shared/FormularioDirector.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3Ncc2hhcmVkXEZvcm11bGFyaW9EaXJlY3Rvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Dev/BootCamp C\# Sonda/semana 7 asignaciones/dia 2/BootCamp-C-PruebaPeliculas/views/shared/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = dmlld3Ncc2hhcmVkXGluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

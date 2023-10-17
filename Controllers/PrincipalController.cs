@@ -1,9 +1,11 @@
+using System.Reflection;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ProyectoPeliculas.Controllers;
 
 public class PrincipalController : Controller
 {
+    private static List<string> ListaDirectores = new List<string> { "Martin Scorses", "Quentin Tarantino", "Billy Wilder", "James Cameron" };
     [HttpGet]
     [Route("")]
     public IActionResult Index()
@@ -18,8 +20,7 @@ public class PrincipalController : Controller
     [Route("directores")]
     public IActionResult Directores()
     {
-        string[] listaDirectores = { "Martin Scorses", "Quentin Tarantino", "Billy Wilder", "James Cameron" };
-        ViewBag.ListaDirectores = listaDirectores;
+        ViewBag.listaDirectores = ListaDirectores;
         return View("directores");
     }
     [HttpGet("mensaje/{nombre}/{apellido}")]
@@ -41,5 +42,31 @@ public class PrincipalController : Controller
         }
 
         return TablaCompleta;
+    }
+    [HttpGet]
+    [Route("procesa/directores")]
+    public RedirectResult ProcesaDirectores()
+    {
+        Console.WriteLine("Procesando Directores");
+        return Redirect("/directores");
+    }
+    [HttpGet]
+    [Route("/formulario/director")]
+    public IActionResult FormularioDirector()
+    {
+        return View("FormularioDirector");
+    }
+    [HttpPost]
+    [Route("nuevo/director")]
+    public RedirectToActionResult AgregaDirector(string NombreCompleto)
+    {
+        ListaDirectores.Add(NombreCompleto);
+        return RedirectToAction("directores");
+    }
+    [HttpGet]
+    [Route("api/directores")]
+    public JsonResult APIDirectores()
+    {
+        return Json(ListaDirectores);
     }
 }

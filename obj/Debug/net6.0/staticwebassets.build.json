@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B2JEuLG8jzeHYVc/5/5p+hreNisdf6JeXsGJDr5qTJE=",
+  "Hash": "a5UYqSDB3f8e8Y7vaOAyU7yD/hj8Inp7UtWAtI3MYfA=",
   "Source": "ProyectoPeliculas",
   "BasePath": "_content/ProyectoPeliculas",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ProyectoPeliculas\\wwwroot",
       "Source": "ProyectoPeliculas",
-      "ContentRoot": "E:\\Dev\\BootCamp C# Sonda\\semana 7 asignaciones\\dia 1\\ProyectoPeliculas\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\BootCamp C# Sonda\\semana 7 asignaciones\\dia 2\\BootCamp-C-PruebaPeliculas\\wwwroot\\",
       "BasePath": "_content/ProyectoPeliculas",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Dev\\BootCamp C# Sonda\\semana 7 asignaciones\\dia 1\\ProyectoPeliculas\\wwwroot\\css\\style.css",
+      "Identity": "E:\\Dev\\BootCamp C# Sonda\\semana 7 asignaciones\\dia 2\\BootCamp-C-PruebaPeliculas\\wwwroot\\css\\style.css",
       "SourceId": "ProyectoPeliculas",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dev\\BootCamp C# Sonda\\semana 7 asignaciones\\dia 1\\ProyectoPeliculas\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\BootCamp C# Sonda\\semana 7 asignaciones\\dia 2\\BootCamp-C-PruebaPeliculas\\wwwroot\\",
       "BasePath": "_content/ProyectoPeliculas",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "E:\\Dev\\BootCamp C# Sonda\\semana 7 asignaciones\\dia 1\\ProyectoPeliculas\\wwwroot\\img\\1.png",
+      "Identity": "E:\\Dev\\BootCamp C# Sonda\\semana 7 asignaciones\\dia 2\\BootCamp-C-PruebaPeliculas\\wwwroot\\img\\1.png",
       "SourceId": "ProyectoPeliculas",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dev\\BootCamp C# Sonda\\semana 7 asignaciones\\dia 1\\ProyectoPeliculas\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\BootCamp C# Sonda\\semana 7 asignaciones\\dia 2\\BootCamp-C-PruebaPeliculas\\wwwroot\\",
       "BasePath": "_content/ProyectoPeliculas",
       "RelativePath": "img/1.png",
       "AssetKind": "All",
